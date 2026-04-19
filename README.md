@@ -46,7 +46,4 @@ AI: Time-series forecasting models
 Recommendation:
 You can update your existing README.md in your project folder with this content, then run:
 
-powershell
-git add README.md
-git commit -m "Update README with project details"
-git push
+
