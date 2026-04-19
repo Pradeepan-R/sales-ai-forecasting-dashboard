@@ -1,10 +1,12 @@
 ﻿
  Sales AI Forecasting Dashboard
-Project Overview
+
+ 
 The Sales AI Forecasting Dashboard is a sophisticated full-stack application designed to transform raw historical sales data into actionable business intelligence. By leveraging a custom Machine Learning engine, the platform predicts future sales trends and demand patterns with high precision. The system features a modern, responsive React interface that provides users with interactive visualizations, while the high-performance FastAPI backend ensures seamless data processing and model execution. This tool empowers business owners to optimize inventory, plan marketing strategies, and make data-driven decisions.
 
 🏗️ Project Structure
-text
+
+
 Sales-AI-Dashboard/
 ├── backend/            # Python FastAPI Server
 │   ├── ml_engine.py    # AI/ML Prediction Logic
