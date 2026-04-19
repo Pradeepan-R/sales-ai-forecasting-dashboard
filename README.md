@@ -41,6 +41,7 @@ The AI Engine will analyze the trends.
 View the Future Forecast and Analytics Charts on the main dashboard.
 
 🛠️ Tech Stack
+
 Frontend: React.js, Chart.js, Tailwind CSS
 Backend: Python, FastAPI, Pandas, Scikit-Learn
 Database: PostgreSQL / SQLAlchemy
